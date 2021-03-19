@@ -3,7 +3,7 @@ Some Tableau dashboards created by me.
 
 ### Daily Market Snapshot
 
-LINK: https://prod-apnortheast-a.online.tableau.com/#/site/vilkhoo/views/DailyMarketSnapshot/Dashboard1?:iid=1
+LINK: https://cutt.ly/IxtHsjT
 
 To check the top gainers, top losers, commodities, global and domestic index performance, stocks performance in different sectors, IPO issue and corporate action by companies.
 
