@@ -15,3 +15,9 @@ To check the top gainers, top losers, commodities, global and domestic index per
 
 ![Covid](https://user-images.githubusercontent.com/80466173/111953571-d25b4f80-8b0c-11eb-8524-571f496c620e.PNG)
 
+
+### Sample Superstore Dashboard
+
+![image](https://user-images.githubusercontent.com/80466173/112106069-30526a80-8bd3-11eb-8b93-6eb12d71dfe0.png)
+
+
