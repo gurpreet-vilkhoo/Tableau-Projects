@@ -1,6 +1,15 @@
 # Tableau-Projects
 Some Tableau dashboards created by me.
 
+
+# Coal machine breakdown analysis( Recliner)
+
+To study and analysis which recliners breakdown in the month of September using 8 day moving average.
+If the Idle Capacity given by: Actual Tonnage- Nominal Capacity)/ Nominal Capacity is greater than 10% , then machine requires maintenance
+Made use of table calculations, reference lines on hourly datetime frame.
+
+![image](https://user-images.githubusercontent.com/80466173/114970356-e5590980-9e97-11eb-8eb9-bd5056b2468e.png)
+
 ### Startup Quadrant dashboard
 
 To find the best investment opportunities in startups with high revenue, low expense and top growth in 2015 by making use of dynamic sets, parameters and other formatting.
