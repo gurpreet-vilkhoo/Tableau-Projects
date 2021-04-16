@@ -2,7 +2,7 @@
 Some Tableau dashboards created by me.
 
 
-# Coal machine breakdown analysis( Recliner)
+### Coal recliner machine breakdown analysis
 
 To study and analysis which recliners breakdown in the month of September using 8 day moving average.
 If the Idle Capacity given by: Actual Tonnage- Nominal Capacity)/ Nominal Capacity is greater than 10% , then machine requires maintenance
